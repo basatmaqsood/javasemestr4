@@ -1,0 +1,1 @@
+"vmArgs": "--module-path \"Your Path To The lib Folder" --add-modules javafx.controls,javafx.fxml"

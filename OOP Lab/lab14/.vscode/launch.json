@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloFX",
+            "request": "launch",
+            "mainClass": "HelloFX",
+            "projectName": "lab14_522dc276",
+            "vmArgs": "--module-path C:/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml"
+
+        }
+    ]
+}
